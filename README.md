@@ -14,7 +14,7 @@ Dataset Name: Stroke Prediction Dataset
 Dataset Type: Tabular (Structured)
 Source: Kaggle(https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
-Team Members:
+*Team Members:* <br>
 IT24102819 - Gunarathna M.P.R. <br>
 IT24102862 - Edirisooriya E.A.S.K. <br>
 IT24102981 - Jayatunga N.P. <br>
