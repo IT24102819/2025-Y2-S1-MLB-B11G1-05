@@ -2,10 +2,10 @@
 
 Stroke is a leading cause of death and long-term disability worldwide.Early detection can enable preventive care and reduce medical emergencies.Machine Learning offers tools to analyze risk factors and predict outcomes based on clinical data.
 
-Objective -
+*Objective* -
  Predict whether a patient is likely to suffer a stroke based on their clinical features and medical history.
 
-Type of Task -
+*Type of Task* -
  Binary classification (Supervised Learning)
 
 ## Dataset Details
