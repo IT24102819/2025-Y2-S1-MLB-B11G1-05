@@ -15,17 +15,17 @@ Dataset Type: Tabular (Structured)
 Source: Kaggle(https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 Team Members:
-IT24102819 - Gunarathna M.P.R.
-IT24102862 - Edirisooriya E.A.S.K. 
-IT24102981 - Jayatunga N.P. 
-IT24102967 - Kaveesha G.O.
-IT24102959 - Gamlath G.M.W.S.
-IT24102954 - Vaathuman G.
+IT24102819 - Gunarathna M.P.R. <br>
+IT24102862 - Edirisooriya E.A.S.K. <br>
+IT24102981 - Jayatunga N.P. <br>
+IT24102967 - Kaveesha G.O. <br>
+IT24102959 - Gamlath G.M.W.S. <br>
+IT24102954 - Vaathuman G. <br>
 
 *How to run code* <br>
-1 - First download the dataset through the above link
-2 - Download the .ipynb file and upload it to Google Colab
-3 - select a Gpu and run
+1 - First download the dataset through the above link <br>
+2 - Download the .ipynb file and upload it to Google Colab <br>
+3 - select a Gpu and run <br>
 
 
 
